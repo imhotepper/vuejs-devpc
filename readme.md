@@ -54,7 +54,7 @@ Assuming the container started and you are connected to it using the Remote - Co
     once the application is up and running on port 8080 just open a browser and navigate to ```http://localhost:8080 ``` and the Vuejs app will become visible.
 
 
-    Any updates you'll do inside the container from Visual Studio Code will become immediately available in the browser.
+Any updates you'll do inside the container from Visual Studio Code will become immediately available in the browser.
 
 
 <br>
